@@ -8,3 +8,146 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+body {
+    background-color: #540B51;
+    font-family: Awesome;
+}
+
+#logo-slack {
+    height: 25px;
+}
+
+#nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#nav-bar2 {
+    display: flex;
+    flex-direction: row;
+}
+
+#ul-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    list-style: none;
+}
+
+#ul-bar li a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    display: flex;
+}
+
+header div h1 {
+    font-size: 5.5rem;
+    color: white;
+}
+
+header div p {
+    font-size: 2rem;
+    color: white;
+}
+
+#div-header {
+    margin-left: 70px;
+}
+ 
+#img-header {
+    width: 600px;
+    justify-content: flex-end;
+    margin-left: 75px;
+    padding-top: 150px;
+}
+
+#logo-google {
+    width: 25px;
+}
+
+#section-1 {
+    text-align: center;
+}
+
+#section-1 p {
+    color: #191817;
+    text-transform: uppercase;
+}
+
+#img-section-1 {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#img-section-1 img {
+    height: 40px;
+}
+
+#section-img {
+    background-color: #F3EAE2;
+}
+
+.sections-img {
+    display: flex;
+    margin-top: 50px;
+}
+
+.sections-img img {
+    height: 500px;
+    object-fit: fill;
+}
+
+.sections-img div a {
+    text-decoration: none;
+    color: #2E71A6;
+}
+
+#section-2 {
+    justify-content: space-between;
+}
+
+#section-3 {
+    justify-content: space-between;
+}
+
+#section-4 {
+    justify-content: space-between;
+}
+
+.div-section-img {
+    font-size: 1.3rem;
+}
+
+#div-section-img-1 {
+    margin-right: 300px;
+    padding-top: 50px;
+}
+
+#div-section-img-2 {
+    margin-left: 300px;
+    padding-top: 50px;
+}
+
+#div-section-img-3 {
+    margin-right: 300px;
+    padding-top: 50px;
+}
+
+#p-1 {
+    width: 500px;
+}
+
+#p-2 {
+    width: 400px;
+}
+
+#p-3 {
+    width: 475px;
+}
